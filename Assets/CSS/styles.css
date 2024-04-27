@@ -24,6 +24,7 @@
 }
 
 
+
 .header section ul li {
     display: inline-block;
     margin-right: 20px;
@@ -34,7 +35,13 @@
 
 }
 
+header a {
+    text-decoration: none;
+    color: hsl(201, 49%, 54%);
+}
+
 article section {
+   
     margin-top: 44px;
     margin-bottom: 44px;
     margin-left: 80px;
@@ -44,8 +51,14 @@ article section {
     font-family: "Lucida Console", "Courier New", monospace;
     background-color: hsl(201, 49%, 54%);
     color: #ffffff;
-    flex: 1;
+   
 }
+
+article section a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 
 .right-aligned {
 float: right;
