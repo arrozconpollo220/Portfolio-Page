@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    padding: 1px;
+    margin: 9px;
+}
+
+.header {
+    padding: 0px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: hsl(195, 2%, 60%);
+    color: hsl(201, 49%, 54%);
+}
+
+.header h1 {
+    font-size: 75px;
+    font-weight: 800;
+}
+
+.header section {
+    padding-top: 130px;
+    margin-right: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 27px;
+}
+
+
+.header section ul li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: 27px;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+article section {
+    margin-top: 44px;
+    margin-bottom: 44px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 50px;
+    height: 240px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: hsl(201, 49%, 54%);
+    color: #ffffff;
+    flex: 1;
+}
+
+.right-aligned {
+float: right;
+margin: -134px -29px -1px -1px;
+}
+
+article section h2 {
+    font-size: xx-large;
+}
+
+
