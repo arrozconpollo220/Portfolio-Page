@@ -23,8 +23,6 @@
     font-size: 27px;
 }
 
-
-
 .header section ul li {
     display: inline-block;
     margin-right: 20px;
@@ -32,7 +30,6 @@
     margin-top: 25px;
     font-size: 27px;
     font-family: "Lucida Console", "Courier New", monospace;
-
 }
 
 header a {
@@ -50,8 +47,7 @@ article section {
     height: 240px;
     font-family: "Lucida Console", "Courier New", monospace;
     background-color: hsl(201, 49%, 54%);
-    color: #ffffff;
-   
+    color: #ffffff; 
 }
 
 article section a {
@@ -59,10 +55,10 @@ article section a {
     color: #ffffff;
 }
 
-
 .right-aligned {
     float: right;
     margin: -222px 0px -1px -1px;
+    border: solid 6px #ffffff;
 }
 
 article section h2 {
@@ -81,5 +77,18 @@ article section ul li {
     font-size: 25px;
 }
 
+footer p {
+    color:crimson;
+}
 
+@media screen and (max-width: 992px) {
+    
+}
 
+@media screen and (max-width: 768px) {
+    
+}
+
+@media screen and (max-width: 576px) {
+    
+}
