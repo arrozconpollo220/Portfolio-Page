@@ -61,12 +61,25 @@ article section a {
 
 
 .right-aligned {
-float: right;
-margin: -134px -29px -1px -1px;
+    float: right;
+    margin: -222px 0px -1px -1px;
 }
 
 article section h2 {
     font-size: xx-large;
 }
+
+article section p {
+    width: 1000px;
+    line-height: 2;
+}
+
+article section ul li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 25px;
+}
+
 
 
