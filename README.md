@@ -20,4 +20,4 @@ https://arrozconpollo220.github.io/Portfolio-Page/
 
 ## Screenshot 
 
-![alt text](image-1.png)
+![Screnshot of site] https://github.com/arrozconpollo220/Portfolio-Page/blob/main/image-1.png?raw=true
